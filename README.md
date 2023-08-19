@@ -16,8 +16,8 @@ This is a solution to the [Article preview component solution challenge on Front
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/3-column-preview-card-component-solution]
-- Live Site URL: [https://aravindhan7.github.io/3-column-preview-card-component-solution]
+- Solution URL: [https://github.com/aravindhan7/Article-preview-component-solution]
+- Live Site URL: [https://aravindhan7.github.io/Article-preview-component-solution/]
 
 
 ## Author
